@@ -1,5 +1,5 @@
 <div style="width:60px ; height:60px">
-![Employee data](/kalman_cpp/media/mahalanobis_distance.png?raw=true "Kalman_cpp")
+![Model](https://github.com/sfowzia1001/kalman_cpp/blob/main/media/mahalanobis_distance.png)
 <div>
 
 # Kalman_cpp
