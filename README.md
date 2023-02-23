@@ -12,7 +12,7 @@ After each time step, the KalmanFilter object's state estimate, innovation covar
 
 ## Instructions
 
-- Clone this repository in a desired location with `git clone https://github.com/sfowzia1001/kalman_cpp`
+- Clone this repository in a desired location with `git clone https://github.com/sfowzia/kalman_cpp`
 - Change directory into Kalman_cpp with `cd kalman_cpp`
 - Make a build directory with `mkdir build && cd build`
 - Compile with CMake with `cmake ..`
