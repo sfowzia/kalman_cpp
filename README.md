@@ -1,6 +1,4 @@
-<div style="width:60px ; height:60px">
-![Model](https://github.com/sfowzia1001/kalman_cpp/blob/main/media/mahalanobis_distance.png)
-<div>
+![Alt text](https://github.com/sfowzia1001/kalman_cpp/blob/main/media/mahalanobis_distance.png?raw=true "Kalman_cpp")
 
 # Kalman_cpp
 
