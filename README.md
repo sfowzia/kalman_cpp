@@ -1,3 +1,5 @@
+![alt text](https://github.com/sfowzia1001/kalman_cpp/media/mahalanobis_distance.png?raw=true)
+
 # Kalman_cpp
 
 This program assumes that the system being modeled is linear and that both the system dynamics and measurement models are known.
