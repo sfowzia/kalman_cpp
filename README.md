@@ -1,4 +1,6 @@
-![alt text](https://github.com/sfowzia1001/kalman_cpp/media/mahalanobis_distance.png?raw=true)
+<div style="width:60px ; height:60px">
+![Employee data](/kalman_cpp/media/mahalanobis_distance.png?raw=true "Kalman_cpp")
+<div>
 
 # Kalman_cpp
 
